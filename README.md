@@ -10,7 +10,7 @@ Riddle ??:  Some say a red dragon from NSA can crack an Elf.
             As for me, a red dragon had help me, in many battles, change
             the control flow of things, thus changing outcomes. 
 
-            It is much easier to patch out unwanted enemies, than deal 
+            Sometimes it is much easier to patch out unwanted enemies, than deal 
             with them head-on.
 ```
 
