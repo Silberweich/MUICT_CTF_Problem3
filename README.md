@@ -1,5 +1,6 @@
 ### MUICT CTF: Intro to Cyber Security 
-#### Problem 3 (EASY????)
+----
+#### Problem 3: paper (EASY????)
 ``` 
 Problem Type: Reverse Engineering  
 Riddle ??:  Some say a red dragon from NSA can crack an Elf. 
@@ -20,4 +21,16 @@ x86-64, version 1 (SYSV), dynamically linked,
 interpreter /lib64/ld-linux-x86-64.so.2, 
 BuildID[sha1]=9f1149de0eb0211e7254665222c37fb03ec5fd71, 
 for GNU/Linux 3.2.0, not stripped
+```
+----
+
+#### Problem 4: sussy (EASY????)
+``` 
+Problem Type: Network Forensics  
+Riddle ??:    sus
+```
+
+### file info
+```
+sussy.pcapng: pcapng capture file - version 1.0
 ```
